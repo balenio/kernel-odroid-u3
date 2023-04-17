@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x
+set -ex
 
 ODROID_KERNEL_BRANCH="$1"
 
